@@ -1,0 +1,77 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/metadata3",
+  "type": "Manifest",
+  "label": {
+    "it": [
+      "foto1.jpg"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "it": [
+          "Numero d'inventario"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/inventario/35783\">35783</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Titolo"
+        ]
+      },
+      "value": {
+        "it": [
+          "Veduta del Partenone durante i lavori di restauro.jpg"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Autore"
+        ]
+      },
+      "value": {
+        "it": [
+          "Corboz, André"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://example.org/canvas/1",
+      "type": "Canvas",
+      "width": 330,
+      "height": 227,
+      "items": [
+        {
+          "id": "https://example.org/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://example.org/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/foto1.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 330,
+                "height": 227
+              },
+              "target": "https://example.org/canvas/1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
