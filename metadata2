@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/metadata2.json",
+  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/metadata2",
   "type": "Manifest",
   "label": {
     "it": [
