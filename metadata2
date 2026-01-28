@@ -52,8 +52,8 @@
                 "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/foto2.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
-                "width": 330,
-                "height": 227
+                "width": 1280,
+                "height": 881
               },
               "target": "https://example.org/canvas/1"
             }
