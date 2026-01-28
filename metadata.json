@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/API.json",
+  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/metadata.json",
   "type": "Manifest",
   "label": {
     "it": [
@@ -49,7 +49,7 @@
               "type": "Annotation",
               "motivation": "painting",
               "body": {
-                "id": "http://localhost:8182/iiif/2/foto1.jpg/full/full/0/default.jpg",
+                "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/foto1.jpg",
                 "type": "Image",
                 "format": "image/jpeg",
                 "width": 330,
@@ -64,3 +64,4 @@
   ]
 
 }
+
