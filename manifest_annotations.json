@@ -1,0 +1,470 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/manifest_annotations.json",
+  "type": "Manifest",
+  "label": {
+    "it": [
+      "foto2.jpg"
+    ],
+    "en": [
+      "foto2.jpg"
+    ]
+  },
+  "metadata": [
+    {
+      "label": {
+        "it": [
+          "Titolo opera"
+        ],
+        "en": [
+          "Title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Veduta del Partenone durante i lavori di restauro"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Titolo originale"
+        ],
+        "en": [
+          "Original title"
+        ]
+      },
+      "value": {
+        "none": [
+          "Athenes, Parthénon, du sud-est, 170"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Iscrizione"
+        ],
+        "en": [
+          "Inscription"
+        ]
+      },
+      "value": {
+        "none": [
+          "\"ATHENES // Parthénon // 170 [cerchiata] // du sud-est // 2/1/03\""
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Collezione"
+        ],
+        "en": [
+          "Collection"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/collezione/212\">Fondo André Corboz</a>"
+        ],
+        "en": [
+          "<a href=\"https://iconoteca.arc.usi.ch/en/collection/212\">André Corboz Collection</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Data creazione"
+        ],
+        "en": [
+          "Date of creation"
+        ]
+      },
+      "value": {
+        "none": [
+          "02.01.2003"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Luogo creazione"
+        ],
+        "en": [
+          "Place of creation"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&luogo=Atene\">Atene</a>"
+        ],
+        "en": [
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&luogo=Athens\">Athens</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Nome creatore"
+        ],
+        "en": [
+          "Name of creator"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&autore=Corboz%2C%20Andr%C3%A9\">Corboz, André</a>",
+          "(Autore)"
+        ],
+        "en": [
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&autore=Corboz%2C%20Andr%C3%A9\">Corboz, André</a>",
+          "(Author)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Nome oggetto culturale"
+        ],
+        "en": [
+          "Cultural object name"
+        ]
+      },
+      "value": {
+        "it": [
+          "Partenone (Atene)"
+        ],
+        "en": [
+          "Partenone (Athens)"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Descrittori Sbt"
+        ],
+        "en": [
+          "Subjects Sbt"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&soggetto=Templi\">Templi</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&soggetto=Zone%20archeologiche\">Zone archeologiche</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&soggetto=Impalcature\">Impalcature</a>",
+          "Templi , Zone archeologiche , Impalcature"
+        ],
+        "en": [
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&soggetto=Templi\">Templi</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&soggetto=Zone%20archeologiche\">Zone archeologiche</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&soggetto=Impalcature\">Impalcature</a>",
+          "Templi , Zone archeologiche , Impalcature"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Descrittori Getty AAT"
+        ],
+        "en": [
+          "Subjects Getty AAT"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&soggetto=Temples%20%28buildings%29\">Temples (buildings)</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&soggetto=Archaeological%20sites\">Archaeological sites</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&soggetto=Scaffolds\">Scaffolds</a>",
+          "Temples (buildings) , Archaeological sites , Scaffolds"
+        ],
+        "en": [
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&soggetto=Temples%20%28buildings%29\">Temples (buildings)</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&soggetto=Archaeological%20sites\">Archaeological sites</a>",
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&soggetto=Scaffolds\">Scaffolds</a>",
+          "Temples (buildings) , Archaeological sites , Scaffolds"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Luogo rappresentato"
+        ],
+        "en": [
+          "Depicted place"
+        ]
+      },
+      "value": {
+        "it": [
+          "<a href=\"https://iconoteca.arc.usi.ch/it/ricerca?isPostBack=1&luogo=Atene\">Atene</a>"
+        ],
+        "en": [
+          "<a href=\"https://iconoteca.arc.usi.ch/en/search?isPostBack=1&luogo=Athens\">Athens</a>"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Classificazione"
+        ],
+        "en": [
+          "Classification"
+        ]
+      },
+      "value": {
+        "none": [
+          "726.100"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Tipo materiale"
+        ],
+        "en": [
+          "Document type"
+        ]
+      },
+      "value": {
+        "it": [
+          "Materiale fotografico"
+        ],
+        "en": [
+          "Photographic material"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Designazione specifica del materiale"
+        ],
+        "en": [
+          "Specific document definition"
+        ]
+      },
+      "value": {
+        "it": [
+          "Fotografia"
+        ],
+        "en": [
+          "Photograph"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Supporto originale"
+        ],
+        "en": [
+          "Original technology"
+        ]
+      },
+      "value": {
+        "it": [
+          "Analogico"
+        ],
+        "en": [
+          "Analog"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Materiale del supporto"
+        ],
+        "en": [
+          "Material"
+        ]
+      },
+      "value": {
+        "it": [
+          "Pellicola fotografica"
+        ],
+        "en": [
+          "Photographic film"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Colore"
+        ],
+        "en": [
+          "Colour"
+        ]
+      },
+      "value": {
+        "it": [
+          "Policromatico"
+        ],
+        "en": [
+          "Polychromatic"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Polarità"
+        ],
+        "en": [
+          "Polarity"
+        ]
+      },
+      "value": {
+        "it": [
+          "Positivo"
+        ],
+        "en": [
+          "Positive"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Tipo supporto"
+        ],
+        "en": [
+          "Material type"
+        ]
+      },
+      "value": {
+        "it": [
+          "Trasparente"
+        ],
+        "en": [
+          "Transparent"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Processo e tecnica"
+        ],
+        "en": [
+          "Process and technique"
+        ]
+      },
+      "value": {
+        "it": [
+          "Procedimento a colori per formazione di coloranti"
+        ],
+        "en": [
+          "Chromogenic processes"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Montaggio"
+        ],
+        "en": [
+          "Mounting"
+        ]
+      },
+      "value": {
+        "none": [
+          "Telaio in plastica"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Orientamento e forma"
+        ],
+        "en": [
+          "Orientation and form"
+        ]
+      },
+      "value": {
+        "it": [
+          "Orizzontale"
+        ],
+        "en": [
+          "Landscape"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Dimensioni opera"
+        ],
+        "en": [
+          "Work dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "2x3 cm"
+        ]
+      }
+    },
+    {
+      "label": {
+        "it": [
+          "Dimensioni supporto"
+        ],
+        "en": [
+          "Support dimensions"
+        ]
+      },
+      "value": {
+        "none": [
+          "5x5 cm"
+        ]
+      }
+    }
+  ],
+  "items": [
+    {
+      "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/manifest_multilingua.json/canvas/1",
+      "type": "Canvas",
+      "width": 1280,
+      "height": 881,
+      "items": [
+        {
+          "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/manifest_multilingua.json/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/manifest_multilingua.json/annotation/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/foto2.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "width": 1280,
+                "height": 881
+              },
+              "target": "https://jpagna.github.io/Icnonoteca-IIIF-test/manifest_multilingua.json/canvas/1"
+            }
+          ]
+        }
+      ],
+  "annotations": [
+    {
+      "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/annotations/annotations.json",
+      "type": "AnnotationPage"
+    }
+  ]
+}
