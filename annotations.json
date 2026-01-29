@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/annotations/annotations.json",
+  "id": "https://jpagna.github.io/Icnonoteca-IIIF-test/annotations.json",
   "type": "AnnotationPage",
   "items": [
     {
@@ -62,3 +62,4 @@
     }
   ]
 }
+
