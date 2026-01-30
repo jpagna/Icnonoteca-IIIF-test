@@ -442,9 +442,7 @@
       },
       "value": {
         "none": [
-          "<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\" target=\"_blank\">
-            <img src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" alt=\"CC BY-SA 4.0\">
-            </a>"
+          "<a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.it\" target=\"_blank\"><img src=\"https://i.creativecommons.org/l/by-sa/4.0/88x31.png\" alt=\"CC BY-SA 4.0\"></a>"
         ]
       }
     }
